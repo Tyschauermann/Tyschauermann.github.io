@@ -1,1 +1,62 @@
+body {
+    margin: 0;
+}
 
+header {
+    background-color: rgba(105, 105, 105, 1);
+    display: flex;
+    align-items: center;
+    position: relative;
+    justify-content: space-between;
+    height: 60px;
+}
+
+#portfolio-name {
+    margin: 0;
+}
+
+#button-container {
+    margin: 0;
+}
+
+.header-button {
+    background-color: rgba(105, 105, 105, 1);
+    border: none;
+    height: 60px;
+}
+
+.header-button:hover {
+    background-color: rgb(200, 200, 200);
+}
+
+#banner {
+    margin: 0;
+}
+
+#highlights {
+    margin: 0;
+}
+
+.section-header {
+    margin: 0;
+}
+
+.section-underline {
+    border: none;
+    border-top: 2px solid #0d7710;
+    width: 80%;
+    margin-left: 0;
+}
+
+
+#projects {
+    margin: 0;
+}
+
+#about {
+    margin: 0;
+}
+
+#contact {
+    margin: 0;
+}
